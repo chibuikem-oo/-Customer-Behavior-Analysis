@@ -137,3 +137,14 @@ This dashboard was created to analyze customer behavior based on an e-commerce d
 ### **Conclusion**
 
 To optimize customer engagement and sales performance, the business should focus on targeted marketing campaigns, product inventory management, geographical expansion, customer engagement strategies, and payment method optimization. These actions will help improve customer satisfaction and drive revenue growth.
+
+## Limitations
+- Data Completeness: The dataset may not include all customer transactions, potentially leading to incomplete insights.
+- Data Accuracy: There may be errors or inconsistencies in the data that could affect the accuracy of the analysis.
+- Generalizability: Insights derived from this dataset may not be generalizable to other e-commerce platforms or regions.
+- Temporal Limitations: The analysis is based on historical data and may not reflect current or future trends.
+- Customer Demographics: The analysis assumes that gender, age, and income are primary factors in purchasing behavior, which may not always be the case.
+- Campaign Effectiveness: The analysis of campaign schemas may not fully capture the impact of external factors such as market conditions or competitor actions.
+- Product Performance: The top and bottom products by quantity sold may not fully represent customer satisfaction or product quality.
+- Payment Methods: The analysis assumes that payment methods are a primary factor in customer choice, which may not always be the case.
+
